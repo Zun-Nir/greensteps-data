@@ -10,5 +10,12 @@
     "description": "Turn off taps when not in use.",
     "latitude": -23.3810,
     "longitude": 150.5160
+  },
+  {
+    "title": "Bike to Work",
+    "description": "Use your bicycle instead of a car when possible.",
+    "latitude": -23.3820,
+    "longitude": 150.5170
   }
 ]
+
